@@ -1,0 +1,22 @@
+## Directories
+runs/
+flat/
+figures/
+
+## Samples
+# MadGraph
+*.lhe
+*.lhe.gz
+# Pythia
+*.hepmc
+# Delphes
+*.root
+
+## Outputs
+*.png
+*.pdf
+
+## Automatic files
+__pycache__/
+*.pyc
+*.swp
