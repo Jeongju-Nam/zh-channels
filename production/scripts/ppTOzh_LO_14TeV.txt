@@ -1,0 +1,9 @@
+import model heft
+generate p p > z h
+output /users/hep/oliver0320/Projects/zh_channels/production/runs/ppTOzh_LO_14TeV_100k
+launch
+0
+set nevents 100000
+set ebeam1 7000
+set ebeam2 7000
+0
