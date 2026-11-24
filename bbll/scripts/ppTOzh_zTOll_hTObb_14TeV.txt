@@ -1,0 +1,10 @@
+import model heft
+generate p p > z h, z > l+ l-, h > b b~
+output /users/hep/oliver0320/Projects/zh_channels/bbll/runs/ppTOzh_zTOll_hTObb_14TeV_100k
+launch
+detector=Delphes
+0
+set nevents 100000
+set ebeam1 7000
+set ebeam2 7000
+0

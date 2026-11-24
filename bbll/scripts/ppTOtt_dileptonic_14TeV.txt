@@ -1,0 +1,10 @@
+import model sm
+generate p p > t t~, t > b l+ vl, t~ > b~ l- vl~
+output /users/hep/oliver0320/Projects/zh_channels/bbll/runs/ppTOtt_dileptonic_14TeV_100k
+launch
+detector=Delphes
+0
+set nevents 100000
+set ebeam1 7000
+set ebeam2 7000
+0
